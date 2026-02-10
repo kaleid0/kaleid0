@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81C7&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+ZhangWeibin;AI+Application+Developer+%7C+Python+Backend+Engineer+%7C+Fullstack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81C7&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+ZhangWeibin;AI+Application+Developer+%7C+Python+Backend+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-Hangzhou%2C+Zhejiang%2C+China-red" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Hangzhou%2CZhejiang%2CChina-red" alt="Location" />
 </div>
 
 ---
