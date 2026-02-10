@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kaleid0/kaleid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm ZhangWeibin 👋
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Full Stack Developer & AI Enthusiast passionate about building innovative solutions and contributing to open source.
+
+---
+
+## Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- TypeScript
+
+**Frameworks & Tools**
+- React
+- Node.js
+- Docker
+- Git
+
+---
+
+## Featured Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [rag-agent-v2](https://github.com/kaleid0/rag-agent-v2) | RAG Agent Implementation | - |
+| [D-ADD](https://github.com/AI-EXP-group/D-ADD) | Defense Against Model Stealing | 1 |
+| [prompt-evaluator](https://github.com/kaleid0/prompt-evaluator) | Prompt Evaluation Tool | - |
+| [google-rank-scraper](https://github.com/kaleid0/google-rank-scraper) | Google Ranking Scraper | - |
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleid0&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff&text_color=333333&icon_color=333333)
+
+---
+
+## Connect
+
+- Email: your-email@example.com
+- GitHub: [kaleid0](https://github.com/kaleid0)
+
+---
+
+<div align="center">
+
+*Made with ❤️*
+
+</div>
