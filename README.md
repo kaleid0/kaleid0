@@ -3,8 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Age-26-blue" alt="Age" />
-  <img src="https://img.shields.io/badge/Degree-Master's-green" alt="Degree" />
   <img src="https://img.shields.io/badge/Location-Zhejiang%2C+China-red" alt="Location" />
 </div>
 
