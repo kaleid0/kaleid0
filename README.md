@@ -1,58 +1,21 @@
 <div align="center">
-
-# Hi, I'm ZhangWeibin 👋
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81C7&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+ZhangWeibin;AI+Application+Developer+%7C+Python+Backend+Engineer" alt="Typing SVG" />
 </div>
-
----
-
-## About Me
-
-Full Stack Developer & AI Enthusiast passionate about building innovative solutions and contributing to open source.
-
----
-
-## Tech Stack
-
-**Languages**
-- Python
-- JavaScript
-- TypeScript
-
-**Frameworks & Tools**
-- React
-- Node.js
-- Docker
-- Git
-
----
-
-## Featured Projects
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [rag-agent-v2](https://github.com/kaleid0/rag-agent-v2) | RAG Agent Implementation | - |
-| [D-ADD](https://github.com/AI-EXP-group/D-ADD) | Defense Against Model Stealing | 1 |
-| [prompt-evaluator](https://github.com/kaleid0/prompt-evaluator) | Prompt Evaluation Tool | - |
-| [google-rank-scraper](https://github.com/kaleid0/google-rank-scraper) | Google Ranking Scraper | - |
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleid0&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff&text_color=333333&icon_color=333333)
-
----
-
-## Connect
-
-- Email: your-email@example.com
-- GitHub: [kaleid0](https://github.com/kaleid0)
-
----
 
 <div align="center">
-
-*Made with ❤️*
-
+  <img src="https://img.shields.io/badge/Age-26-blue" alt="Age" />
+  <img src="https://img.shields.io/badge/Degree-Master's-green" alt="Degree" />
+  <img src="https://img.shields.io/badge/Location-Zhejiang%2C+China-red" alt="Location" />
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **AI Application Development** and **Python Backend**
+- 🎓 Master's student in **Computer Science** at Zhejiang University of Technology
+- 🌱 Focusing on **RAG systems**, **LLM Agents**, and **Model Security**
+- 💡 Open to opportunities in AI application R&D and Python backend development
+- 📧 Contact me: [zhangwb631@163.com](mailto:zhangwb631@163.com)
+
+---
